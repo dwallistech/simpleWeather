@@ -1,0 +1,2 @@
+# simpleWeather
+my weather widget
