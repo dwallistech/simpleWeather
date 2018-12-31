@@ -1,0 +1,26 @@
+{
+  "name": "simpleweather",
+  "version": "1.0.0",
+  "description": "dwallistech weather widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "testWeather"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwallistech/simpleWeather.git"
+  },
+  "keywords": [
+    "weather",
+    "demo"
+  ],
+  "author": "dwallistech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwallistech/simpleWeather/issues"
+  },
+  "homepage": "https://github.com/dwallistech/simpleWeather#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
